@@ -128,8 +128,3 @@ for (startX, startY, endX, endY) in boxes:
 # show the output image
 cv2.imshow("Text Detection", orig)
 cv2.waitKey(0)
-
-
-
-
-
